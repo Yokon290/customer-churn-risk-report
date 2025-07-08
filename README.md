@@ -1,6 +1,6 @@
 # 📊 Customer Churn Risk Report
 
-This real-world project analyzes customer churn risk using Python, SQLite, CSV, and Matplotlib — just like you'd do in a data analyst role at a company like Lumen.
+This real-world project analyzes customer churn risk using Python, SQLite, CSV, and Matplotlib — just like you'd do in a data analyst role.
 
 ## 🧠 Tools Used
 - Python 3.11
