@@ -8,8 +8,8 @@ colors = []
 with open("churn_risk_report.csv", "r") as file:
     reader = csv.DictReader(file)
     for row in reader:
-        name = row["Name"]
-        score = float(row["Churn Score"])
+        name = row["name"]
+        score = float(row["churn_score"])
 
         names.append(name)
         scores.append(score)
